@@ -23,5 +23,9 @@
     "@types/graphql": "^14.5.0",
     "@types/morgan": "^1.7.37",
     "nodemon": "^1.19.4"
-  }
+  },
+  "engines":{
+    "node":"10.16.0",
+    "npm":"6.9.0"
+ }
 }
